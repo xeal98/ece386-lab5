@@ -23,7 +23,7 @@ response = chat(
       ''',
     }
   ],
-  model='llama3.1',
+  model='gemma3:1b',
   format=PetList.model_json_schema(),
 )
  
